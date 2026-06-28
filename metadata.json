@@ -1,0 +1,6 @@
+{
+  "name": "وبسایت رزومه دکتر مصطفی احمدی فر",
+  "description": "پورتفولیوی علمی، پژوهشی و آموزشی دکتر مصطفی احمدی فر - مدرس سطوح عالی حوزه و دانشگاه و پژوهشگر برتر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
